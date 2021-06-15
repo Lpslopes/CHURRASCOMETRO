@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    background-image: url(./churras.jpg);
+    background-size: cover;
+}
 input{
     display:block;
     width:100%;
@@ -14,8 +19,10 @@ input{
 }
 
 
+
 button{
     margin-top: 20px;
+    margin-bottom: 30px;
     border:none;
     background-color: aquamarine;
     width:100%;
